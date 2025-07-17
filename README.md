@@ -29,5 +29,3 @@ Trabalho realizado por um grupo de 5 alunos, onde cada um ficou responsável por
 
 🔗 [Clique aqui para ver o ViaLibera no GitHub Pages](https://elinton-souza.github.io/vialibera)
 
-🔗![Prévia do site](./preview.png)
-
